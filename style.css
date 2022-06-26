@@ -1,0 +1,16 @@
+.cardspec {
+    background-color: black;
+    color: red;
+    border: 1px solid red;
+}
+.cardspec:hover{
+    color: blue;
+    border: 1px solid blue;
+}
+.cardspec img {
+    filter: grayscale(1);
+    transition: all 1s ease-out;
+}
+.cardspec:hover img {
+    filter: grayscale(0);
+}

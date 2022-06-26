@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<config>
+    <host>127.0.0.1:3310</host>
+    <user>root</user>
+    <password></password>
+    <db>hospitalE2N</db>
+    <table>patients</table>
+</config>
